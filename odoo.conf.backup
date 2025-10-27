@@ -1,0 +1,8 @@
+[options]
+addons_path = /mnt/extra-addons,/usr/lib/python3/dist-packages/odoo/addons
+db_host = db
+db_user = odoo
+db_password = admin@22
+admin_password = admin@22
+admin_passwd = $pbkdf2-sha512$600000$/7/X.l/Lube2FmLMOWestQ$upBF5FVmGmlPS0/qXXSTiFbYxGWbGiNKdDeNhQyZUxxNRabohvHbnnYOFnZWsi4DqrRyZNK5BNoOw7EKilG8tA
+
